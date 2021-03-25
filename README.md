@@ -1,3 +1,3 @@
 # Django-REST-Framework-YouTube
-Django REST Framework from scratch with example
+Build APIs using Python and Django REST Framework
 -------------------------------------------------
