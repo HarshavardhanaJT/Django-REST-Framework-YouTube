@@ -2,6 +2,12 @@ from django.db import models
 
 # Create your models here.
 
+"""
+YouTube : CodingWithHarsha
+Web Application(made using Python, Django REST Framework and Angular 10) : codingwithharsha.in
+
+"""
+
 class Book(models.Model):
 
     name = models.CharField(max_length=150)

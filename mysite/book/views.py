@@ -5,6 +5,12 @@ from .serializers import BookSerializer
 from rest_framework.response import Response
 # Create your views here.
 
+"""
+YouTube : CodingWithHarsha
+Web Application(made using Python, Django REST Framework and Angular 10) : codingwithharsha.in
+
+"""
+
 class BookView(APIView):
 
     def get(self, request):

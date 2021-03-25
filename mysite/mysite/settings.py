@@ -8,6 +8,11 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
+
+
+YouTube : CodingWithHarsha
+Web Application(made using Python, Django REST Framework and Angular 10) : codingwithharsha.in
+
 """
 
 from pathlib import Path
